@@ -10,9 +10,10 @@ const siriHegde = {
   name: "Siri Hegde",
   locatedIn: "Pennsylvania, USA",
   education: ["Master's in Computer Science", "Bachelor's in Computer Science"],
-  job: "Software Engineer Intern",
-  company: "Sheetz",
+  job: "Software Development Engineer Intern",
+  company: "Amazon",
   pastExperiences: [
+    { position: "Software Engineering Intern", organization: "Sheetz", location: "Altoona, PA", duration: "May 2024 - April 2025"},
     { position: "Undergraduate Researcher", organization: "Penn State University", location: "Harrisburg, PA", duration: "Summer 2024" },
     { position: "Data Analytics Intern", organization: "Pennsylvania Department of Transportation (PennDOT)", location: "Harrisburg, PA", duration: "Summer 2023" },
     { position: "Software Engineer Intern", organization: "SupplyTiger", location: "Elizabethtown, PA", duration: "Summer 2023" },
