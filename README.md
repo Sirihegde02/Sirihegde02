@@ -36,7 +36,7 @@ const siriHegde = {
 <a href="sirihegde02@gmail.com">
   <img alt="Siri's Email" width="50px" src="https://miro.medium.com/v2/resize:fit:700/1*W-3dwJCL27QynV4XohyvDQ.gif" />
 </a>
-<a href="https://www.instagram.com/iris_hegde/">
+<a href="https://www.instagram.com/Sirihegde02/">
   <img alt="Siri's Instagram" width="50px" src="https://i.pinimg.com/originals/4e/94/67/4e9467f024454dfa2b0a0e61074aebd1.gif" />
 </a>
 
